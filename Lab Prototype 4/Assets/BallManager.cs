@@ -50,7 +50,6 @@ public class BallManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.R))
         {
-    
             RestartTheGame(); 
         }
     }
